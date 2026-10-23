@@ -61,6 +61,7 @@
 | 28 | Tam Mệnh Thông Hội 06 – Quyển 7: tính tình–tướng mạo, bệnh tật theo can chi–tạng phủ, nữ mệnh (tám cách, tám phép), tiểu nhi, lục thân | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-06-quyen-7-tinh-tinh-benh-nu-menh-tieu-nhi-luc-than.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-06-quyen-7-tinh-tinh-benh-nu-menh-tieu-nhi-luc-than.md) |
 | 29 | Thần Phong Thông Khảo (Trương Nam) 01 – Tự, bác ngũ tinh/hợp hôn/mậu thuyết, động–tĩnh, "che đầu", lục thân, thuyết BỆNH–DƯỢC (4 bệnh 4 thuốc), chính quan, thiên quan, bỏ mệnh tòng sát, quan sát khứ lưu | [boc-tach/Tu-Binh-Than-Phong-Thong-Khao-01-tua-benh-duoc-chinh-quan-thien-quan.md](boc-tach/Tu-Binh-Than-Phong-Thong-Khao-01-tua-benh-duoc-chinh-quan-thien-quan.md) |
 | 30 | Thần Phong Thông Khảo 02 – Chính tài và tòng tài, thiên tài, thương quan–thực thần (thật/giả, thập luận, ~30 lá số), ấn thụ (thật/giả, kiêu thần) | [boc-tach/Tu-Binh-Than-Phong-Thong-Khao-02-tai-thuong-quan-thuc-than-an-thu.md](boc-tach/Tu-Binh-Than-Phong-Thong-Khao-02-tai-thuong-quan-thuc-than-an-thu.md) |
+| 31 | Thần Phong Thông Khảo 03 – Dương nhận, tỷ kiếp, kiến lộc, chuyên lộc, tạp khí tài quan ấn (xung khố), kim thần, các cách đặc biệt (phi thiên lộc mã, dao/củng, khúc trực, giá sắc, tòng hóa…) và Trương Nam bác/giữ, thần thú bát pháp, đại vận, thái tuế | [boc-tach/Tu-Binh-Than-Phong-Thong-Khao-03-duong-nhan-kien-loc-tap-khi-cac-cach-dac-biet-than-thu-bat-phap.md](boc-tach/Tu-Binh-Than-Phong-Thong-Khao-03-duong-nhan-kien-loc-tap-khi-cac-cach-dac-biet-than-thu-bat-phap.md) |
 
 ---
 
