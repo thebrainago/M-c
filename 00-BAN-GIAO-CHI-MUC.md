@@ -44,12 +44,13 @@
 | 11 | Uyên Hải Tử Bình 01 – Nền tảng: thập thần, tàng can, sinh khắc, thái tuế, đại vận, bệnh, tính tình | [boc-tach/Tu-Binh-Uyen-Hai-01-nen-tang-thap-than-tang-can-van-tuat.md](boc-tach/Tu-Binh-Uyen-Hai-01-nen-tang-thap-than-tang-can-van-tuat.md) |
 | 12 | Uyên Hải Tử Bình 02 – Luận từng thập thần và thần sát | [boc-tach/Tu-Binh-Uyen-Hai-02-thap-than-than-sat.md](boc-tach/Tu-Binh-Uyen-Hai-02-thap-than-than-sat.md) |
 | 13 | Uyên Hải Tử Bình 03 – Lục thân, nữ mệnh, cách đặc biệt, khẩu quyết, hưng vong, bảo pháp | [boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md](boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md) |
+| 14 | Uyên Hải Tử Bình 04 – Các bài phú, ca (Huyền cơ, Bích uyên, Vạn kim, Tứ ngôn độc bộ…) | [boc-tach/Tu-Binh-Uyen-Hai-04-cac-bai-phu-ca-nguyen-ly-cach-cuc.md](boc-tach/Tu-Binh-Uyen-Hai-04-cac-bai-phu-ca-nguyen-ly-cach-cuc.md) |
 
 ---
 
 ## Nguồn mở đã tìm (23/10/2026)
 
-Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑) (đã bóc, file 9–10), [淵海子平](https://zh.wikisource.org/wiki/淵海子平) (đã bóc phần văn xuôi và luận thập thần, file 11–13; còn chưa bóc 12 bài phú/ca ở cuối trang), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
+Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑) (đã bóc, file 9–10), [淵海子平](https://zh.wikisource.org/wiki/淵海子平) (đã bóc trọn trang, file 11–14), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
 Playlist 51 clip: YouTube chặn IP máy chủ đám mây nên chưa lấy được phụ đề. Cần chủ dự án tải `.srt` bằng yt-dlp ở máy nhà rồi đẩy vào `nguon-phu-de/`.
 Manh phái (盲派, Đoàn Kiến Nghiệp): chưa có sách đọc được công khai; cần chủ dự án cấp sách hoặc transcript.
 
