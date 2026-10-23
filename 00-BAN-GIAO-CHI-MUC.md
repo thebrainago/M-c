@@ -39,12 +39,14 @@
 | 6 | Trích Thiên Tủy 01 – Thiên can, địa chi (nguồn Wikisource, Tử Bình cổ điển) | [boc-tach/Tu-Binh-Dich-Thien-Tuy-01-thien-can-dia-chi.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-01-thien-can-dia-chi.md) |
 | 7 | Trích Thiên Tủy 02 – Cách cục, dụng thần, vượng suy, vận | [boc-tach/Tu-Binh-Dich-Thien-Tuy-02-cach-cuc-dung-than-van.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-02-cach-cuc-dung-than-van.md) |
 | 8 | Trích Thiên Tủy 03 – Thanh trọc, tính tình, bệnh, lục thân, quý tiện | [boc-tach/Tu-Binh-Dich-Thien-Tuy-03-tinh-benh-luc-than-quy-tien.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-03-tinh-benh-luc-than-quy-tien.md) |
+| 9 | Cùng Thông Bảo Giám 01 – Ngũ hành tổng luận, dụng thần theo tháng Giáp Ất Bính Đinh | [boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-01-tong-luan-giap-at-binh-dinh.md](boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-01-tong-luan-giap-at-binh-dinh.md) |
+| 10 | Cùng Thông Bảo Giám 02 – Dụng thần theo tháng Mậu Kỷ Canh Tân Nhâm Quý | [boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-02-mau-ky-canh-tan-nham-quy.md](boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-02-mau-ky-canh-tan-nham-quy.md) |
 
 ---
 
 ## Nguồn mở đã tìm (23/10/2026)
 
-Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑), [淵海子平](https://zh.wikisource.org/wiki/淵海子平), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
+Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑) (đã bóc, file 9–10), [淵海子平](https://zh.wikisource.org/wiki/淵海子平), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
 Playlist 51 clip: YouTube chặn IP máy chủ đám mây nên chưa lấy được phụ đề. Cần chủ dự án tải `.srt` bằng yt-dlp ở máy nhà rồi đẩy vào `nguon-phu-de/`.
 Manh phái (盲派, Đoàn Kiến Nghiệp): chưa có sách đọc được công khai; cần chủ dự án cấp sách hoặc transcript.
 
