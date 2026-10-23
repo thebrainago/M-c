@@ -52,6 +52,7 @@
 | 19 | Trích Thiên Tủy Xiển Vi (Nhâm Thiết Tiều) 01 – Thông thần luận 1–10: thiên/địa/nhân đạo, tri mệnh, lý khí (tiến thoái), thiên can, địa chi, xung–hình–hại, hình tượng; nhiều cặp lá số đối chứng | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-01-dao-troi-dat-nguoi-can-chi-hinh-tuong.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-01-dao-troi-dat-nguoi-can-chi-hinh-tuong.md) |
 | 20 | Xiển Vi 02 – Phương cục, bát cách, thể dụng, tinh khí thần, nguyệt lệnh, sinh thời, suy vượng (mười cặp "tựa"), trung hòa, nguồn–lưu | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-02-phuong-cuc-bat-cach-the-dung-suy-vuong-trung-hoa-nguyen-luu.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-02-phuong-cuc-bat-cach-the-dung-suy-vuong-trung-hoa-nguyen-luu.md) |
 | 21 | Xiển Vi 03 – Thông quan, quan–sát (6 kiểu), thương quan (5 kiểu dụng), thanh–trọc, chân–giả thần, cương–nhu, thuận–nghịch, hàn–noãn, táo–thấp, ẩn–hiện, chúng–quả, chấn–đoài, khảm–ly | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-03-thong-quan-quan-sat-thuong-quan-thanh-trong-han-nuan.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-03-thong-quan-quan-sat-thuong-quan-thanh-trong-han-nuan.md) |
+| 22 | Xiển Vi 04 – Lục thân (vợ, con, cha mẹ, anh em) và Hà tri chương (giàu, sang, nghèo, hèn, cát, hung, thọ, yểu) | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-04-luc-than-vo-con-cha-me-anh-em-giau-sang-tho-yeu.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-04-luc-than-vo-con-cha-me-anh-em-giau-sang-tho-yeu.md) |
 
 ---
 
