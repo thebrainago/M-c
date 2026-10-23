@@ -45,6 +45,7 @@
 | 12 | Uyên Hải Tử Bình 02 – Luận từng thập thần và thần sát | [boc-tach/Tu-Binh-Uyen-Hai-02-thap-than-than-sat.md](boc-tach/Tu-Binh-Uyen-Hai-02-thap-than-than-sat.md) |
 | 13 | Uyên Hải Tử Bình 03 – Lục thân, nữ mệnh, cách đặc biệt, khẩu quyết, hưng vong, bảo pháp | [boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md](boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md) |
 | 14 | Uyên Hải Tử Bình 04 – Các bài phú, ca (Huyền cơ, Bích uyên, Vạn kim, Tứ ngôn độc bộ…) | [boc-tach/Tu-Binh-Uyen-Hai-04-cac-bai-phu-ca-nguyen-ly-cach-cuc.md](boc-tach/Tu-Binh-Uyen-Hai-04-cac-bai-phu-ca-nguyen-ly-cach-cuc.md) |
+| 15 | Tam Mệnh Thông Hội 01 – Quyển 1–2: ngũ hành, nạp âm, can chi, nhân nguyên, thai nguyên, vận, thái tuế, hợp–hình–hại–xung | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-01-nen-tang-nap-am-can-chi-van-tuat.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-01-nen-tang-nap-am-can-chi-van-tuat.md) |
 
 ---
 
