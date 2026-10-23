@@ -54,7 +54,7 @@
 
 ## Nguồn mở đã tìm (23/10/2026)
 
-Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑) (đã bóc, file 9–10), [淵海子平](https://zh.wikisource.org/wiki/淵海子平) (đã bóc trọn trang, file 11–14), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
+Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑) (đã bóc, file 9–10), [淵海子平](https://zh.wikisource.org/wiki/淵海子平) (đã bóc trọn trang, file 11–14), [三命通會](https://zh.wikisource.org/wiki/三命通會) (9 quyển trên Wikisource; đã bóc quyển 1, 2, 3, 5, 6 ở file 15–18; **chưa bóc** quyển 4 (can ngồi chi, can theo tháng – trùng nhiều với Cùng Thông Bảo Giám), quyển 7 (tính tình, bệnh, nữ mệnh, tiểu nhi, lục thân – trùng với Uyên Hải), quyển 8 và 9 (bảng tra lục giáp… lục quý theo từng ngày/giờ, dạng tra cứu dài)). Tử Bình Chân Thuyên chưa tìm được bản mở.
 Playlist 51 clip: YouTube chặn IP máy chủ đám mây nên chưa lấy được phụ đề. Cần chủ dự án tải `.srt` bằng yt-dlp ở máy nhà rồi đẩy vào `nguon-phu-de/`.
 Manh phái (盲派, Đoàn Kiến Nghiệp): chưa có sách đọc được công khai; cần chủ dự án cấp sách hoặc transcript.
 
