@@ -41,14 +41,21 @@
 | 8 | Trích Thiên Tủy 03 – Thanh trọc, tính tình, bệnh, lục thân, quý tiện | [boc-tach/Tu-Binh-Dich-Thien-Tuy-03-tinh-benh-luc-than-quy-tien.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-03-tinh-benh-luc-than-quy-tien.md) |
 | 9 | Cùng Thông Bảo Giám 01 – Ngũ hành tổng luận, dụng thần theo tháng Giáp Ất Bính Đinh | [boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-01-tong-luan-giap-at-binh-dinh.md](boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-01-tong-luan-giap-at-binh-dinh.md) |
 | 10 | Cùng Thông Bảo Giám 02 – Dụng thần theo tháng Mậu Kỷ Canh Tân Nhâm Quý | [boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-02-mau-ky-canh-tan-nham-quy.md](boc-tach/Tu-Binh-Cung-Thong-Bao-Giam-02-mau-ky-canh-tan-nham-quy.md) |
+| 11 | Uyên Hải Tử Bình 01 – Nền tảng: thập thần, tàng can, sinh khắc, thái tuế, đại vận, bệnh, tính tình | [boc-tach/Tu-Binh-Uyen-Hai-01-nen-tang-thap-than-tang-can-van-tuat.md](boc-tach/Tu-Binh-Uyen-Hai-01-nen-tang-thap-than-tang-can-van-tuat.md) |
+| 12 | Uyên Hải Tử Bình 02 – Luận từng thập thần và thần sát | [boc-tach/Tu-Binh-Uyen-Hai-02-thap-than-than-sat.md](boc-tach/Tu-Binh-Uyen-Hai-02-thap-than-than-sat.md) |
+| 13 | Uyên Hải Tử Bình 03 – Lục thân, nữ mệnh, cách đặc biệt, khẩu quyết, hưng vong, bảo pháp | [boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md](boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md) |
 
 ---
 
 ## Nguồn mở đã tìm (23/10/2026)
 
-Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑) (đã bóc, file 9–10), [淵海子平](https://zh.wikisource.org/wiki/淵海子平), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
+Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑) (đã bóc, file 9–10), [淵海子平](https://zh.wikisource.org/wiki/淵海子平) (đã bóc phần văn xuôi và luận thập thần, file 11–13; còn chưa bóc 12 bài phú/ca ở cuối trang), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
 Playlist 51 clip: YouTube chặn IP máy chủ đám mây nên chưa lấy được phụ đề. Cần chủ dự án tải `.srt` bằng yt-dlp ở máy nhà rồi đẩy vào `nguon-phu-de/`.
 Manh phái (盲派, Đoàn Kiến Nghiệp): chưa có sách đọc được công khai; cần chủ dự án cấp sách hoặc transcript.
+
+## Sách Manh phái trên Drive (chưa đọc được)
+
+`Tượng pháp.pdf` (~100 MB) và `Bát tự chiêm tinh 12 con giáp.pdf` (~71 MB) của thầy Nguyễn Văn Đoàn đã up lên Drive của chủ dự án, nhưng là bản scan (không có lớp chữ) và công cụ tải của Drive chỉ cho tải tối đa 10 MB. Cần chia nhỏ PDF dưới 10 MB hoặc đẩy vào repo riêng tư mới bóc được. Quy trình luận Manh phái chuẩn hóa nằm ở `Quy-trinh-luan-Manh-Phai.md` trên Drive.
 
 ## Hướng tiếp theo
 
