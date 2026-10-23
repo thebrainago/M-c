@@ -53,6 +53,7 @@
 | 20 | Xiển Vi 02 – Phương cục, bát cách, thể dụng, tinh khí thần, nguyệt lệnh, sinh thời, suy vượng (mười cặp "tựa"), trung hòa, nguồn–lưu | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-02-phuong-cuc-bat-cach-the-dung-suy-vuong-trung-hoa-nguyen-luu.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-02-phuong-cuc-bat-cach-the-dung-suy-vuong-trung-hoa-nguyen-luu.md) |
 | 21 | Xiển Vi 03 – Thông quan, quan–sát (6 kiểu), thương quan (5 kiểu dụng), thanh–trọc, chân–giả thần, cương–nhu, thuận–nghịch, hàn–noãn, táo–thấp, ẩn–hiện, chúng–quả, chấn–đoài, khảm–ly | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-03-thong-quan-quan-sat-thuong-quan-thanh-trong-han-nuan.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-03-thong-quan-quan-sat-thuong-quan-thanh-trong-han-nuan.md) |
 | 22 | Xiển Vi 04 – Lục thân (vợ, con, cha mẹ, anh em) và Hà tri chương (giàu, sang, nghèo, hèn, cát, hung, thọ, yểu) | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-04-luc-than-vo-con-cha-me-anh-em-giau-sang-tho-yeu.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-04-luc-than-vo-con-cha-me-anh-em-giau-sang-tho-yeu.md) |
+| 23 | Xiển Vi 05 – Nữ mệnh (sao chồng/con), tiểu nhi, tài–đức, phấn–uất, ân–oán, nhàn thần, tham hợp bất hóa, xung đắc dụng | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-05-nu-menh-tieu-nhi-tai-duc-phan-uat-an-oan-nhan-than.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-05-nu-menh-tieu-nhi-tai-duc-phan-uat-an-oan-nhan-than.md) |
 
 ---
 
