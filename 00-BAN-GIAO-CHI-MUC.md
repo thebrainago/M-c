@@ -48,6 +48,7 @@
 | 15 | Tam Mệnh Thông Hội 01 – Quyển 1–2: ngũ hành, nạp âm, can chi, nhân nguyên, thai nguyên, vận, thái tuế, hợp–hình–hại–xung | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-01-nen-tang-nap-am-can-chi-van-tuat.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-01-nen-tang-nap-am-can-chi-van-tuat.md) |
 | 16 | Tam Mệnh Thông Hội 02 – Quyển 3: thần sát (lộc, mã, quý nhân, tam kỳ, nhị đức, không vong, nhận, la võng…) | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-02-than-sat-quyen-3.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-02-than-sat-quyen-3.md) |
 | 17 | Tam Mệnh Thông Hội 03 – Quyển 5 và đầu quyển 6: chính quan, thiên quan/thất sát, quan sát hỗn tạp, cách đặc biệt | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-03-cach-cuc-quan-sat-quyen-5-6a.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-03-cach-cuc-quan-sat-quyen-5-6a.md) |
+| 18 | Tam Mệnh Thông Hội 04 – Quyển 6 (nửa sau): cách thanh khí, tài, ấn, đảo thực, tạp khí, thương quan, thực thần, dương nhận, kiến lộc | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-04-cach-cuc-tai-an-thuc-thuong-nhan-quyen-6b.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-04-cach-cuc-tai-an-thuc-thuong-nhan-quyen-6b.md) |
 
 ---
 
