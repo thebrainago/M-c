@@ -46,6 +46,8 @@
 | 13 | Uyên Hải Tử Bình 03 – Lục thân, nữ mệnh, cách đặc biệt, khẩu quyết, hưng vong, bảo pháp | [boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md](boc-tach/Tu-Binh-Uyen-Hai-03-luc-than-nu-menh-cach-dac-biet-khau-quyet.md) |
 | 14 | Uyên Hải Tử Bình 04 – Các bài phú, ca (Huyền cơ, Bích uyên, Vạn kim, Tứ ngôn độc bộ…) | [boc-tach/Tu-Binh-Uyen-Hai-04-cac-bai-phu-ca-nguyen-ly-cach-cuc.md](boc-tach/Tu-Binh-Uyen-Hai-04-cac-bai-phu-ca-nguyen-ly-cach-cuc.md) |
 | 15 | Tam Mệnh Thông Hội 01 – Quyển 1–2: ngũ hành, nạp âm, can chi, nhân nguyên, thai nguyên, vận, thái tuế, hợp–hình–hại–xung | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-01-nen-tang-nap-am-can-chi-van-tuat.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-01-nen-tang-nap-am-can-chi-van-tuat.md) |
+| 16 | Tam Mệnh Thông Hội 02 – Quyển 3: thần sát (lộc, mã, quý nhân, tam kỳ, nhị đức, không vong, nhận, la võng…) | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-02-than-sat-quyen-3.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-02-than-sat-quyen-3.md) |
+| 17 | Tam Mệnh Thông Hội 03 – Quyển 5 và đầu quyển 6: chính quan, thiên quan/thất sát, quan sát hỗn tạp, cách đặc biệt | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-03-cach-cuc-quan-sat-quyen-5-6a.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-03-cach-cuc-quan-sat-quyen-5-6a.md) |
 
 ---
 
