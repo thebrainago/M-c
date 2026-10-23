@@ -74,9 +74,11 @@
 
 ---
 
-## File do phiên khác thêm ở gốc repo (cần rà lại)
+## File do phiên khác ("Grok" bot) thêm – cần rà lại
 
-Commit `86aa7bc` ("Grok" bot, 23/10/2026) thêm 6 file ở **thư mục gốc**, không nằm trong `boc-tach/`: `01-tuong-phap-sach-boc-tach.md` (OCR bằng EasyOCR từ *Tượng pháp.pdf* – ghi rõ có lỗi nhận dạng), `01-dinh-nghia-va-nhan-dien.md` (Đảng thế), `01-y-tu-tong-quan.md`, `01-cong-thuc-doi-chieu-co-ban.md`, `buoi-1-clip-1-nen-tang-chi-tiet.md`, `video-luan-le-viet-anh-chi-tiet.md`. Commit đó cũng **ghi đè bảng chỉ mục này bằng danh sách 5 mục có link Drive** (làm mất bảng 40 mục); bảng đã được khôi phục khi gộp. Việc cần làm: (a) đưa các file trên vào `boc-tach/` theo quy ước đặt tên, (b) đối chiếu `buoi-1-clip-1-nen-tang-chi-tiet.md` với `boc-tach/Buoi-1-Clip-1-Nen-tang-chi-tiet.md` (có thể trùng nội dung), (c) kiểm tra lại phần OCR *Tượng pháp* với bản scan trước khi tin.
+- Đã vào `boc-tach/`: `Tuong-phap-sach-01-phoi-hop-tuong-phap.md` (OCR bằng EasyOCR từ *Tượng pháp.pdf*; file tự ghi "có lỗi nhận dạng" – cần đối chiếu bản scan trước khi tin).
+- **Còn nằm ở thư mục gốc** (chưa theo quy ước `boc-tach/` + tên file): `01-dinh-nghia-va-nhan-dien.md` (Đảng thế), `01-y-tu-tong-quan.md`, `01-cong-thuc-doi-chieu-co-ban.md`, `buoi-1-clip-1-nen-tang-chi-tiet.md`, `video-luan-le-viet-anh-chi-tiet.md`. Hai file cuối có thể trùng `boc-tach/Buoi-1-Clip-1-Nen-tang-chi-tiet.md` và `boc-tach/Video-luan-Le-Viet-Anh-boc-tach-chi-tiet.md`.
+- Commit `86aa7bc` của phiên đó từng **ghi đè bảng chỉ mục này bằng danh sách 5 mục có link Drive** (mất bảng 40 mục); bảng đã được khôi phục khi gộp ngày 23/10/2026. Phiên khác sửa chỉ mục xin **thêm dòng vào bảng, đừng thay cả file**.
 
 ---
 
