@@ -55,6 +55,7 @@
 | 22 | Xiển Vi 04 – Lục thân (vợ, con, cha mẹ, anh em) và Hà tri chương (giàu, sang, nghèo, hèn, cát, hung, thọ, yểu) | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-04-luc-than-vo-con-cha-me-anh-em-giau-sang-tho-yeu.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-04-luc-than-vo-con-cha-me-anh-em-giau-sang-tho-yeu.md) |
 | 23 | Xiển Vi 05 – Nữ mệnh (sao chồng/con), tiểu nhi, tài–đức, phấn–uất, ân–oán, nhàn thần, tham hợp bất hóa, xung đắc dụng | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-05-nu-menh-tieu-nhi-tai-duc-phan-uat-an-oan-nhan-than.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-05-nu-menh-tieu-nhi-tai-duc-phan-uat-an-oan-nhan-than.md) |
 | 24 | Xiển Vi 06 – Từ tượng (4 loại tòng mới), hóa tượng (số 5), giả tòng/giả hóa, thuận cục, phản cục (4 cặp), chiến cục, hợp cục, quân–thần–mẫu–tử tượng | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-06-tong-hoa-thuan-phan-chien-hop-quan-than-mau-tu.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-06-tong-hoa-thuan-phan-chien-hop-quan-than-mau-tu.md) |
+| 25 | Xiển Vi 07 – Tính tình (theo ngũ hành, dương minh–âm trọc, dương nhận, thương quan) và Tật bệnh (ngũ hành–tạng phủ, kỵ thần nhập tạng, khách thần) | [boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-07-tinh-tinh-ngu-hanh-benh-tat.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-Xien-Vi-07-tinh-tinh-ngu-hanh-benh-tat.md) |
 
 ---
 
