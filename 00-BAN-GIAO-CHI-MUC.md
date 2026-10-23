@@ -36,8 +36,17 @@
 | 3 | Đảng thế – Định nghĩa và nhận diện | [boc-tach/Dang-the-01-dinh-nghia.md](boc-tach/Dang-the-01-dinh-nghia.md) |
 | 4 | Ý tứ – Tổng quan | [boc-tach/Y-tu-01-tong-quan.md](boc-tach/Y-tu-01-tong-quan.md) |
 | 5 | Công thức đối chiếu cơ bản | [boc-tach/Cong-thuc-doi-chieu-co-ban.md](boc-tach/Cong-thuc-doi-chieu-co-ban.md) |
+| 6 | Trích Thiên Tủy 01 – Thiên can, địa chi (nguồn Wikisource, Tử Bình cổ điển) | [boc-tach/Tu-Binh-Dich-Thien-Tuy-01-thien-can-dia-chi.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-01-thien-can-dia-chi.md) |
+| 7 | Trích Thiên Tủy 02 – Cách cục, dụng thần, vượng suy, vận | [boc-tach/Tu-Binh-Dich-Thien-Tuy-02-cach-cuc-dung-than-van.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-02-cach-cuc-dung-than-van.md) |
+| 8 | Trích Thiên Tủy 03 – Thanh trọc, tính tình, bệnh, lục thân, quý tiện | [boc-tach/Tu-Binh-Dich-Thien-Tuy-03-tinh-benh-luc-than-quy-tien.md](boc-tach/Tu-Binh-Dich-Thien-Tuy-03-tinh-benh-luc-than-quy-tien.md) |
 
 ---
+
+## Nguồn mở đã tìm (23/10/2026)
+
+Wikisource tiếng Trung có toàn văn (CC BY-SA 4.0): [滴天髓](https://zh.wikisource.org/wiki/滴天髓) (đã bóc, file 6–8), [窮通寶鑑](https://zh.wikisource.org/wiki/窮通寶鑑), [淵海子平](https://zh.wikisource.org/wiki/淵海子平), [三命通會](https://zh.wikisource.org/wiki/三命通會) (trang gốc chỉ có mục lục, nội dung ở trang con). Tử Bình Chân Thuyên chưa tìm được bản mở.
+Playlist 51 clip: YouTube chặn IP máy chủ đám mây nên chưa lấy được phụ đề. Cần chủ dự án tải `.srt` bằng yt-dlp ở máy nhà rồi đẩy vào `nguon-phu-de/`.
+Manh phái (盲派, Đoàn Kiến Nghiệp): chưa có sách đọc được công khai; cần chủ dự án cấp sách hoặc transcript.
 
 ## Hướng tiếp theo
 
