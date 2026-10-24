@@ -71,6 +71,7 @@
 | 38 | Ngọc Chiếu Định Chân Kinh (玉照定真經, Trương Ngung chú) 01 – phép cổ năm + nạp âm + thai/tháng/ngày/giờ: tôn–ty, phục/phản ngâm, hợp nội–ngoại, quái bản gia, mượn khí, chân–giả ngũ hành (phần tượng–bệnh–nghề chỉ ghi nhận) | [boc-tach/Co-Phap-Ngoc-Chieu-Dinh-Chan-Kinh-01-nien-nap-am-thai-nguyet-tam-chu.md](boc-tach/Co-Phap-Ngoc-Chieu-Dinh-Chan-Kinh-01-nien-nap-am-thai-nguyet-tam-chu.md) |
 | 39 | Lạc Lục Tử Phú Chú (珞琭子賦註, Đàm Oánh) 01 – quyển thượng: can-lộc/chi-mệnh, hướng–bối, đại vận 3 ngày = 1 tuổi, tiến–thoái, sùng/nghĩa/chế/tặc, bản–chủ, thai 300 ngày, tam thú, ngũ hổ độn (ba lớp chú Vương Đình Quang, Lý Đồng, Đàm Oánh) | [boc-tach/Co-Phap-Lac-Luc-Tu-Phu-Chu-01-quyen-thuong-can-loc-chi-menh-van-han-tam-thu.md](boc-tach/Co-Phap-Lac-Luc-Tu-Phu-Chu-01-quyen-thuong-can-loc-chi-menh-van-han-tam-thu.md) |
 | 40 | Lạc Lục Tử Phú Chú (Đàm Oánh) 02 – quyển hạ (hết sách): hợp ẩn/"được một chia ba", giao vận 5 năm trước sau, tôn–ty tam nguyên, lộc ba hội & tai năm kỳ, tài–mệnh hữu khí, thân vượng quỷ tuyệt, lộc mã sống/chết, âm thác dương sai, nguyên thần, hạn 32 tuổi | [boc-tach/Co-Phap-Lac-Luc-Tu-Phu-Chu-02-quyen-ha-hu-hop-ham-loc-ma-cat-hung-tue-van.md](boc-tach/Co-Phap-Lac-Luc-Tu-Phu-Chu-02-quyen-ha-hu-hop-ham-loc-ma-cat-hung-tue-van.md) |
+| 41 | Tam Mệnh Thông Hội 07 – quyển 8a: đoán theo NGÀY × GIỜ cho Lục Giáp và Lục Ất (24 mục giờ: cách, dụng thần, điều kiện cát/kỵ, ví dụ ngày) | [boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-07-quyen-8a-luc-giap-luc-at-doan-gio.md](boc-tach/Tu-Binh-Tam-Menh-Thong-Hoi-07-quyen-8a-luc-giap-luc-at-doan-gio.md) |
 
 ---
 
