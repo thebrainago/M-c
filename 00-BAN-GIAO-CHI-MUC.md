@@ -130,6 +130,10 @@ Manh phái (盲派, Đoàn Kiến Nghiệp): chưa có sách đọc được cô
 
 `Tượng pháp.pdf` (~100 MB) và `Bát tự chiêm tinh 12 con giáp.pdf` (~71 MB) của thầy Nguyễn Văn Đoàn đã up lên Drive của chủ dự án, nhưng là bản scan (không có lớp chữ) và công cụ tải của Drive chỉ cho tải tối đa 10 MB. Cần chia nhỏ PDF dưới 10 MB hoặc đẩy vào repo riêng tư mới bóc được. Quy trình luận Manh phái chuẩn hóa nằm ở `Quy-trinh-luan-Manh-Phai.md` trên Drive.
 
+## Ghi chú truyền thừa
+
+- Thầy mù họ Hạ (夏老師) trong *Mệnh Thuật Dật Văn* (file 73–78) là **thầy của thầy Nguyễn Văn Đoàn** (chủ dự án xác nhận 24/10/2026) → đối chiếu clip/ sách của thầy Đoàn với QT-MM ở các file đó.
+
 ## Hướng tiếp theo
 
 - Tiếp tục bóc các buổi tiếp theo trong playlist 51 clip theo cùng mức độ chi tiết.

@@ -1,5 +1,7 @@
 # Mệnh Thuật Dật Văn (命術軼聞) – 06: **Tổng hợp công thức Manh phái** rút từ 20 chương (bảng tra nhanh, dẫn về QT-MM-1…64)
 
+**Truyền thừa (theo chủ dự án, 24/10/2026):** thầy mù họ Hạ (夏老師) trong sách này là **thầy của thầy Nguyễn Văn Đoàn** — nên bộ án lệ này là **nguồn gốc trực tiếp của hệ Manh phái mà thầy Đoàn dạy**; khi đối chiếu playlist 51 clip, ưu tiên so khái niệm với các QT-MM ở đây. *(Thông tin do chủ dự án cung cấp, chưa kiểm chứng độc lập.)*
+
 **Nguồn:** tổng hợp từ file 01–05 (*命術軼聞*, [dushu.com/guoxue/105318](https://www.dushu.com/guoxue/105318/)); **không thêm tư liệu mới**. Mục đích: để khi nhận một lá số, **tra theo chủ đề** thay vì đọc từng ca. Mỗi dòng có **mã QT-MM** để quay về ca gốc (số liệu, can chi, kết quả) ở file tương ứng: **01** (QT-MM-1…12), **02** (13…25), **03** (26…38), **04** (39…50), **05** (51…64).
 **Lưu ý trung thực:** đây là **kho "án lệ + lời chú" của MỘT trường phái** (thầy mù họ Hạ → đệ tử Hình → người chú Đoạn), kể lại qua hồi ký; **không có kiểm chứng độc lập** từng ca, văn bản nhập liệu có lỗi. Các quy tắc dưới đây là **quy tắc "như sách nói"**, đã đánh dấu **[ĐÃ XÁC NHẬN BẰNG ≥2 CA]** hay **[1 CA]** hay **[BẢO LƯU]** để biết độ vững.
 **Quan hệ với những gì kho đã có:** *Công thức đối chiếu cơ bản (file 05 chỉ mục)* (khách–chủ, đảng thế, tố công, tượng pháp, đại vận) **khớp tinh thần** với bộ này: cả hai đều **xem "ai làm gì với ai" bằng tượng** thay vì "vượng/ nhược".
