@@ -6,6 +6,17 @@
 
 ---
 
+## 0. Hai giai đoạn (bắt buộc tách, chốt 24/10/2026)
+
+Mỗi lá số được luận **hai lần, ở hai giai đoạn riêng, hai file riêng:**
+
+- **Giai đoạn A, THUẦN LÁ SỐ:** chỉ dùng bốn trụ cộng kho kiến thức trong repo này. **Cấm** đọc hay nhắc tự thuật, dòng thời gian, báo cáo cũ hay bất kỳ dữ kiện đời thật nào của chủ mệnh. Mọi câu phải truy được về lá số và một file trong kho. File A dùng được cho bất kỳ ai, kể cả người không có tài liệu đời thật. Tên file: "BÁO CÁO – Bát Tự – THUẦN LÁ SỐ – v[số]". Cuối file A có **phiếu đối chiếu:** các khẳng định rút từ lá số, mỗi khẳng định kèm điều kiện sai, để dành cho giai đoạn B.
+- **Giai đoạn B, ĐỐI CHIẾU ĐỜI THẬT:** chỉ làm sau khi file A đã khóa. Đọc tự thuật và dòng thời gian, chấm từng dòng của phiếu đối chiếu (trúng, trượt, chưa biết), báo tỉ lệ trúng kèm mức ngẫu nhiên, rồi mới viết các mục dùng dữ kiện đời thật (giả thuyết trong tự thuật, lịch sống thật, các chương đời có kể sự kiện). Tên file: "BÁO CÁO CUỐI – Bát Tự – v[số] (ĐÃ ĐỐI CHIẾU đời thật)".
+- **Trung thực về nhiễm:** phiên đã đọc tài liệu đời thật không được gọi bản viết của mình ở giai đoạn A là "mù." Muốn bằng chứng sạch, giai đoạn A phải do phiên chưa đọc tài liệu đời thật viết.
+- Bảng 4.2 và các mục 3, 4, 5 dưới đây áp cho **cả hai giai đoạn;** các mục cần dữ kiện đời thật (đối chiếu lịch sống thật, kết luận về giả thuyết của chủ mệnh) chỉ xuất hiện ở giai đoạn B.
+
+---
+
 ## 1. Luật cứng (không thương lượng)
 
 1. **Độc lập:** một báo cáo chỉ dùng tài liệu của chính môn đó cộng dữ liệu đời thực của chủ thể. Không mượn kết luận của môn khác.
@@ -104,6 +115,7 @@ Thứ tự tùy môn, nhưng đủ: lá số và dòng phái · chân dung · t�
 - [ ] Lời khuyên đối chiếu được với lịch sống thật.
 - [ ] Sáu mảng cải mệnh đủ, có log.
 - [ ] Không có dữ liệu cá nhân trong bản đưa lên repo.
+- [ ] File giai đoạn A không chứa bất kỳ dữ kiện đời thật nào của chủ mệnh; có phiếu đối chiếu với điều kiện sai.
 
 ---
 
