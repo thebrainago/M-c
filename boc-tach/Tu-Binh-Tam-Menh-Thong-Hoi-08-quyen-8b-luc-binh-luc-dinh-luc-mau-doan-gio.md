@@ -1,0 +1,92 @@
+# Tam Mệnh Thông Hội – 08: Quyển 8 (phần b) – Đoán theo "NGÀY × GIỜ": Lục Bính, Lục Đinh, Lục Mậu
+
+**Nguồn:** [Wikisource – 三命通會/卷八](https://zh.wikisource.org/wiki/三命通會/卷八), 36 mục cuối của quyển (từ "六丙日戊子时断" đến "六戊日癸亥时断"). Tiếp file 07 (Lục Giáp, Lục Ất). Cách đọc, độ tin cậy và các lưu ý giống file 07: đây là **bảng tra kinh nghiệm**; mỗi mục có thơ 4 câu, đoạn giải (cách, dụng thần), 6 dòng cho 6 ngày, thơ kết + ca. Các dự đoán hình phạt/chết yểu chỉ ghi nhận ngữ liệu.
+
+---
+
+## 1. Khái niệm sách định nghĩa
+
+### 1.1 LỤC BÍNH (Bính Tý, Dần, Thìn, Ngọ, Thân, Tuất) – 12 giờ
+
+| Giờ | Cách / ý chính | Điều kiện cát | Kỵ / chi tiết ngày |
+|---|---|---|---|
+| **Mậu Tý** | Quan–tài vượng sinh, gặp thực thần (Bính dùng Tân tài, Quý quan; Bính hợp Tân, Mậu hợp Quý; trong Tý Quý vượng Tân sinh, Bính vô khí) | Thông hỏa khí, nguyệt có nương tựa → quý; thông mộc khí cũng tốt | Không thông: nghèo hèn. Bính Tý: tháng Dần Tỵ Mão Mùi mộc sinh hỏa đại quý, đông Bính vô khí → nghèo/yểu; Bính Thìn = *nhật đức cách* (ưa quan tinh), tháng Tuất thân vượng võ quý; Bính Ngọ = *nhật nhận cách*, cần quan sát chế/hợp; thuần Tý = *tý ngọ song bao* quý; Bính Tuất: xuân ấn lợi nhất, thu tài vượng thân suy cần nương tựa. |
+| **Kỷ Sửu** | Thương quan bối lộc (Bính dùng Quý quan, trong Sửu còn dư Quý, bị Kỷ minh + thổ ám làm thương) | Thấy Canh Tân → *thương quan sinh tài*, thành phúc | Thấu Quý → họa. Bính Thìn: Thân Hợi hóa thủy thì tốt; Tuất tháng xung kho, "không ai không phát"; Dần Ngọ thân vượng thành "hỏa thượng cách" đại quý. Bính Ngọ: xuân đi hỏa kim vận → cực phẩm; thân Dậu năm tháng, 5–6 phẩm. Bính Thân: bệnh huyết. |
+| **Canh Dần** | Học đường, sinh khí (Bính trường sinh ở Dần; Canh Tân tài; Dần chứa Canh tuyệt, Bính vượng) | Thông kim cục (nguyệt khí) → tài vượng, phú quý song toàn, ưa vận tây | Không thông cục: tài mỏng. Bính Ngọ: **phi thiên lộc mã** nếu năm tháng không Nhâm Quý Tý Mùi Tỵ; Bính Thân: các cục Hợi Mão Mùi và Thân Tý Thìn, quan ấn đều vượng → đại quý; Bính Tuất: vận rơi tử tuyệt = nhập hoàng tuyền. |
+| **Tân Mão** | Bại tài hợp (Bính hợp Tân; Mão là mộc dục) | Thân quá vượng không hóa → văn quý tú lệ (Bính Ngọ, Bính Dần, mùa xuân) | Thân nhược hóa thủy thì thủy tử ở Mão → "tú mà không thật", hay xảo trá, háo sắc. Bính Tý: Tý Mão tương hình, thương vợ con; Bính Ngọ: cần Quý thủy làm quan khử nhận; Bính Thân/Tuất: thân vượng không hóa mới quý. |
+| **Nhâm Thìn** | Sát tọa khố, hỏa khó thân (thủy hỏa vị tế; Bính thấy Nhâm = thiên quan; Thìn hợp thủy cục, hỏa tử vô quang) | Xuân hạ thân vượng hóa quỷ thành quan, đi thân vượng vận → quý | Thu đông thân suy quỷ vượng, không nương tựa → tàn tật, nghèo hèn. Bính Dần: thân sát lưỡng vượng đại quý; Bính Thân: sợ thấu sát không chế, tài đảng sát → yểu. |
+| **Quý Tỵ** | **Nhật lộc quy thời gặp quan** (Bính lộc Tỵ, Quý chính quan tọa quý) | Trụ không Nhâm Kỷ Dần Hợi xung hình → quý; quan thông thủy vượng, Bính thông mộc vượng | Có Nhâm/Kỷ/Dần/Hợi → hỏng. Bính Tý: **hỗ hoán lộc mã** (Bính lộc Tỵ, Quý lộc Tý hỗ hoán), công hầu; Bính Thìn: *khôi cương cách* thân vượng quý; Bính Ngọ: tháng Sửu Thìn tạp khí tài quan, nên giới rượu; Bính Thân: thân tọa thiên quan, thiên tài. |
+| **Giáp Ngọ** | *Phục tinh* (Bính gặp Giáp, Ngọ thái vượng, cần Kỷ hợp Giáp hóa thổ, hỏa khí ẩn sáng) | Sinh tháng Thìn Tuất Sửu Mùi (hỏa ẩn); thấu Mậu Kỷ, vận kim thủy → quý | Không có thổ khó hưởng phúc; hỏa viêm quá thì vất vả. Bính Ngọ: **đảo xung**, tháng Dần Ngọ Tuất 2–3 phẩm; Bính Dần/Thân: thiếu thổ hỏa thì phúc mỏng. |
+| **Ất Mùi** | Sinh khí ấn thụ (Bính thấy Mùi là ấn khố) | Thông hỏa khí, không có tài, không đi vận tài → cao mệnh; tài đến thì tham tài hoại ấn | Đông sinh quan vượng phụ ấn → quý hiển. Bính Ngọ: giàu hoặc quý; Bính Tuất: Dần Mão Tỵ đại quý. |
+| **Bính Thân** | Tài vượng thân suy (Bính tài Canh, quỷ Nhâm; Thân Canh vượng Nhâm sinh, Bính vô khí; tỷ kiên chia tài) | Thông hỏa khí hoặc tháng Dần Mão, đi thân vượng vận; năm tháng thuần kim → *bỏ mệnh theo tài* vẫn cát | Không thông thân vượng: nghèo. Bính Ngọ: có "huyết hỏa", sau phát; Bính Thân: ham sắc, Tý Thìn có đông vận quý; Bính Tuất: không Nhâm Quý Hợi Tý Dậu điền thực thì thành *củng cách* quý. |
+| **Đinh Dậu** | Nhận sinh thân tử (Đinh là nhận, Tân tài; Dậu Tân vượng, Bính tử, Đinh trường sinh) → *bỏ mệnh theo tài* | Có cứu hoặc thông thân vượng nguyệt khí; **Quý Mão tháng** (Quý phá Đinh nhận làm quan, Mão chứa Ất ấn) vận thủy mộc quý hiển | Không cứu, nhận không bị hình xung: hung hãn, không lễ nghĩa, có đầu không cuối. Bính Thân: nguyệt thủy mộc, vận thủy mộc quý; Bính Tuất: "lộ Canh tàng Mậu" nghèo yểu. |
+| **Mậu Tuất** | Hỏa cục gặp thực thần (Mậu thực, Tuất hỏa khố) | Thông hỏa khí thọ lâu danh lợi bền; Bính Dần: *miếu đường thực thần*, thọ phúc dày; tháng Dần Bính Mậu cùng trường sinh tối cát | Thu đông hỏa suy: nghèo. Bính Ngọ: dương nhận thực thần đều vượng, "danh lợi bùng phát"; Bính Tuất: ưa Dần Ngọ Tuất hỏa cục. |
+| **Kỷ Hợi** | Quỷ vượng thân tuyệt (Bính thấy Kỷ thương quan, Nhâm chính quỷ, Giáp đảo thực; Hợi Nhâm vượng) | Thông thân vượng nguyệt, có nương tựa → hóa quỷ thành quan, quý | Không nương tựa, thấu Nhâm: họa trăm đường. Bính Thìn: *nhật đức cách*; Bính Ngọ: võ quý; Bính Dần: hạ sinh hóa quỷ thành quan, vợ hiền con hiếu, "không quý thì giàu". |
+
+*Thơ kết Lục Bính tóm:* Bính+Tý "hoạt kế bốn mùa thịnh, ăn nhờ thực–quan"; +Sửu "tài–quan giấu trong kho, thiếu chìa khó nói giàu"; +Dần "Bính Canh tương hợp, hiểm khó tiêu phúc tự theo"; +Mão "Bính Tân hóa thủy không xứng, thân vượng mới tốt"; +Thìn "Bính sợ Thân, thấy Dần Ngọ Tuất biến hung thành cát"; +Tỵ "chính quan lộc mã hiếm, trụ không xung phá thì vinh hoa"; +Ngọ "ít thủy tai, nhưng lửa thêm củi, tứ quý đề cương mới quý"; +Mùi "vận đi đông bắc vinh hoa"; +Thân "hai Bính gặp Thân, hỏa kim luyện nhiều thành bại, có ấn mới thoát tục"; +Dậu "Bính gặp Dậu thế mặt trời lặn thiếu sáng"; +Tuất "kho tài mở, thiếu niên chưa gặp, vận thông sớm muộn có quan, không có quan cũng phát tài"; +Hợi "mệnh rất cao như lan huệ mọc giữa cỏ, nếu thấy xung khắc phá thì uổng công".
+
+### 1.2 LỤC ĐINH (Đinh Sửu, Mão, Tỵ, Mùi, Dậu, Hợi) – 12 giờ
+
+| Giờ | Cách / ý chính | Điều kiện cát | Kỵ / chi tiết ngày |
+|---|---|---|---|
+| **Canh Tý** | Thân suy quỷ vượng (Đinh tài Canh, quỷ Quý; Tý chứa Quý, Đinh vô khí) | Thông thân vượng nguyệt, có nương tựa; đi thân vượng vận đại quý | Không cứu: nghèo, yểu. Đinh Sửu: "Đinh âm nhu không sợ nước" nên có người đại quý ở tháng Hợi Tý; Đinh Mão: kỵ tháng Quý Tỵ Kỷ Mùi Giáp Thân; Đinh Mùi: Thìn Tuất Sửu Mùi thiên quan có chế, Ngọ tháng thân mạnh. |
+| **Tân Sửu** | Tài khố (Tân tài, Kỷ thực, Sửu kim cục, Kỷ ám đắc vị) | Có nương tựa: tài thực dồi dào; mất thời không nương tựa → ở rể "nhờ vợ mà phát" | Không chìa khóa (không Thìn Tuất Mùi xung mở): bình thường. Đinh Sửu: tháng Thân Dậu tài vượng sinh quan; Đinh Tỵ: nhờ phụ nữ mà quý; Đinh Hợi: xuân ấn, thu có hỏa, hạ quá vượng hung, đông quan sát vượng cát. |
+| **Nhâm Dần** | *Thân đi theo quan hóa mộc* (Đinh–Nhâm hóa mộc, Dần kiện vượng) | Tháng thủy cục đại quý, thông mộc khí cũng quý; Đinh Mùi tháng vận đông | Hóa khí gặp kim hương: hỏng. Đinh Sửu/Mão: hóa quý; Đinh Tỵ: Đinh tử ở Dần, Tỵ vô sinh ý, Dần hình → có đầu không cuối, vận kim thủy; Đinh Dậu: cực phẩm/tể tướng khi Tỵ Ngọ; Đinh Hợi: *nhật quý*, quan ấn đủ, hóa khí hung. |
+| **Quý Mão** | Thân suy quỷ vượng (Quý quỷ, Ất đảo thực; Mão sinh Ất vượng) | Có nương tựa/thân vượng nguyệt hóa quỷ thành quan; Đinh Mão: Dần Mão ấn đới sát không luận hung; Đinh Dậu: **nhật–giờ đều tọa quý** | Không → bần hạ, mù, huyết tật, vợ tai con ít. Đinh Sửu: Thìn Tuất Sửu Mùi chế vừa đủ; Đinh Hợi: Mão ấn, cận thị. |
+| **Giáp Thìn** | Quan khố ấn sinh thân (Giáp ấn, Nhâm quan; Thìn giữ Giáp ấn, quan hợp cục) | Thông nguyệt khí, có nương tựa; xuân đi bắc, đông đi nam | Không thông: bình. Đinh Dậu: *nhật chủ vinh quý cách* nếu năm tháng không Tuất; Đinh Hợi: *nhật quý cách*; Đinh Mão: Thìn Tuất Sửu Mùi cô khắc, vận thông phát tài. |
+| **Ất Tỵ** | Thương quan ngầm hội kiêu (Đinh quan Nhâm, Ất kiêu, Tỵ Nhâm tuyệt, Mậu ám thương) | Thông kim thủy nguyệt, vận kim thủy → quý; Đinh Tỵ: *đảo xung* (Tỵ xung Hợi ra Nhâm quan) không thủy điền thực → 4–5 phẩm | Đông phương vận "hư tú". Đinh Mùi: đảo xung; Đinh Dậu/Hợi: phá tài đảo thực, có kim thủy mới cát; Đinh Hợi: ngày giờ xung (Tỵ–Hợi) thương vợ con. |
+| **Bính Ngọ** | **Nhật lộc cư thời** (Đinh lộc Ngọ) | Chi không kiêu phá (Tý Mão), can không Quý hình → lộc thuần túy, quý; Đinh Tỵ: **hỗ hoán lộc** (Đinh lộc Ngọ, Bính lộc Tỵ) văn chương hiển quý | Có Tý Mão hoặc Quý phá lộc: "gặp mà như không". Đinh Mão: Mão phá Ngọ; Đinh Mùi: tháng Giáp Thân tài–quan–ấn tam kỳ; Đinh Hợi: giờ Tý/Mùi. |
+| **Đinh Mùi** | Hỏa dựa mộc cục, sinh khí (Đinh ấn Giáp, Mùi mộc khố) | Không thấy tài, không đi vận tài, tháng Hợi Mão Mùi có nương → an ổn | Đinh Sửu: Sửu–Mùi xung, không chết yên (nhưng Thìn Tuất đủ tứ khố → cực phẩm); Đinh Tỵ: **củng lộc cách** (năm có Tý thì Ngọ là khuyết môn), kỵ không vong/điền thực; Đinh Mùi: *bát chuyên* thái vượng, khắc cha mẹ vợ con → tăng đạo tốt; Đinh Dậu: nhật quý; Đinh Hợi: Mão tháng tam hợp ấn cục. |
+| **Mậu Thân** | Thân bại bối lộc (Đinh dùng Nhâm quan, Mậu thương) | Giáp Dần năm tháng thuận; thông thân vượng nguyệt | Kỵ Nhâm Tý; thấu Nhâm thấy quan là họa. Đinh Mão: xuân thương quan dụng ấn, thu thương dụng tài; Đinh Dậu: thương quan thương tận kỳ + nhật quý → đăng khoa, vận kim thủy. |
+| **Kỷ Dậu** | **Học đường ngộ quý** (Đinh trường sinh ở Dậu; thiên Ất; Kỷ thực, Tân tài) | Không phá không hình (không Mão Ất) → kỳ | Thấy Mão/Ất/Quý thì không quý. Đinh Tỵ: Tỵ Dậu Sửu tài sinh quan, cả đời phú quý; Đinh Mão: ngày giờ xung nhưng "một chữ hai hợp" thì không tính là xung. |
+| **Canh Tuất** | Mộ giữa gặp bại (Đinh tài Canh Tân; Tuất có Bính bại) | Có cứu | Không cứu, thấy nhiều Quý → bệnh mắt. Đinh Dậu/Hợi: nhật quý; Đinh Mão: Hợi Mùi tam hợp ấn quý; Tuất Dậu lục hại. |
+| **Tân Hợi** | **Tài quan song mỹ, ấn trường sinh** (Đinh tài Tân, quan Nhâm, ấn Giáp; Hợi ẩn Nhâm Giáp) | Thông hỏa khí, có nương tựa → đại quý "toàn mỹ" | Đinh Sửu: thu tài vượng, hạ thân vượng, xuân ấn vượng; đông quan sát nặng thân nhược không gánh nổi; Đinh Mão: tài quan ấn *tam kỳ* ở giờ; Đinh Hợi: *nhật quý* + tam kỳ. |
+
+*Thơ kết Lục Đinh tóm:* Đinh+Tý "lửa rơi sông hồ tối rồi sáng, tứ trụ xung khắc thì đọc sách đến già chỉ hư danh"; +Sửu "thiên tài khố, không chìa khó nói giàu"; +Dần "Đinh Nhâm hợp hóa kim hương, cầu lộc cầu danh vô ích"; +Mão "thân suy làm khéo hóa vụng"; +Thìn "chìa mở tài khố gặp tiền long"; +Tỵ "Đinh gặp hổ hình, tài quan vận mới thông"; +Ngọ "hỗ hoán lộc mã"; +Mùi "hai Đinh gặp, hiểm lộ giữa đời phát phúc"; +Thân "thiên nguyên khí vượng, làm quan dù đạm bạc, vận tốt gia đạo thành"; +Dậu "thiên tài, thực gặp lộc không về"; +Tuất "kho không chìa, cha mẹ khó nhờ, tự lập thành gia"; +Hợi "thiên nguyên lộc mã đồng hương, quan nhà nghèo thành tướng tướng".
+
+### 1.3 LỤC MẬU (Mậu Dần, Thìn, Ngọ, Thân, Tuất, Tý) – 12 giờ
+
+| Giờ | Cách / ý chính | Điều kiện cát | Kỵ / chi tiết ngày |
+|---|---|---|---|
+| **Nhâm Tý** | Tài vượng (Mậu tài Nhâm; Tý Nhâm vượng, Mậu vô khí) | Sinh tháng tứ quý (mộ tài), không hóa thì được tài; hóa với Quý rơi nơi thủy vượng "hỏa không sáng", vô thành, bệnh mắt | Thông khí nguyệt vượng quý. Mậu Tý: *tài tinh cách*, tháng Dần Mão "lộc mã triều nguyên"; Mậu Dần: tháng Mão chính quan; Mậu Thìn: xuân tài quan vượng; Mậu Ngọ: ngày giờ xung, thương vợ con; Mậu Thân: trước trệ sau vượng; Mậu Tuất: "bỏ tài giữ ấn" ("thấy nghĩa quên lợi"). |
+| **Quý Sửu** | Bỏ mệnh theo vợ (Mậu hợp Quý, Quý tài; Sửu chứa Quý dư khí) | Thông nguyệt khí hóa hỏa thật → thông minh; thông thổ khí → giàu quý nắm quyền | Hạ sinh vận đông quý. Mậu Tý: tạp khí ấn thụ, không cần cách cục; Mậu Thìn: hóa hỏa đắc địa; Mậu Thân/Tuất: ham rượu sắc, thân suy "không yểu thì nghèo". |
+| **Giáp Dần** | Thân suy quỷ vượng (Mậu quỷ Giáp, Dần Giáp kiến lộc, Bính sinh thân) | Thông thân vượng nguyệt, nương tựa/cứu → hóa quỷ thành quan, phú quý | Thân yếu → yểu. Mậu Tý: trước phá sau phát; Mậu Dần: thân vượng, cốt nhục không chung; *Mậu Ngọ*: nhận + thiên quan, **lấy nhận hợp sát** → quý; Mậu Thân: Thân Dậu thương quan đới sát, thổ dày quý; Mậu Tuất: Thìn Tuất Sửu Mùi đi vận thủy mộc 3 phẩm. |
+| **Ất Mão** | Quan mạnh thân yếu (Mậu quan Ất, Mão Ất vượng, Mậu tử) | Thông nguyệt khí, thân vượng, trụ không Thân Dậu Tân Canh/Giáp phá → hiển quý | Không nương tựa: thân yếu hóa quan thành quỷ. Mậu Tý: ngày giờ tương hình thương vợ; Mậu Ngọ: *nhận cách*, chính quan khử nhận là phúc. |
+| **Bính Thìn** | Tài khố, quan ẩn kho (Mậu tài Nhâm Quý, quan Ất; Bính kiêu; Thìn Bính vô khí) | Có nương tựa + thông nguyệt khí | Mậu Dần: *long ngâm hổ khiếu*, đại quý trung niên; Mậu Ngọ: Hợi Mão đi đông bắc phú quý; Mậu Tuất: *khôi cương*, quyền lớn phát phúc. |
+| **Đinh Tỵ** | **Ấn sinh nhật lộc quy thời** (Mậu lộc Tỵ, Đinh ấn đế vượng) | Năm tháng không thấy tài quan, không đi vận tài quan; đi thực thương ấn → cao quý; kỵ hình xung phá hại | Thấy quan tổn lộc, thấy tài tổn ấn. Mậu Ngọ: **hỗ hoán lộc**; Mậu Thìn: tháng Tỵ Dậu Sửu phong lưu quyền lớn; Mậu Tuất: *quy lộc cách không kỵ quan sát tài vì thân vượng thì phúc*. |
+| **Mậu Ngọ** | Nhận trùng điệp (Mậu nhận Ngọ) | Có hình xung phá hại mà nhận bị chế, thông nguyệt khí → võ chức biên cương; có hóa khí thiên thời → đại quý | Năm tháng thấy Giáp → tăng đạo; hỏa nhiều chôn Mậu → tỳ phế bệnh. Mậu Thìn: *củng lộc* (không Dần Tỵ Giáp Ất); Mậu Thân: *củng quý*; Mậu Tuất: đại hung. |
+| **Kỷ Mùi** | Nhận + thiên quan (Mậu nhận Kỷ?, Giáp thiên quan; Mùi chứa Kỷ) | Có hình xung phá hại mà nhận sát có chế → quý | Thông thổ khí bình thường; không thông khí nhưng được Dần Thân thì quý. Mậu Dần: trước khó sau dễ; Mậu Tuất: *khôi cương*, 5–6 phẩm; Mậu Thân: kỵ Dần xung sát. |
+| **Canh Thân** | **Thực thần hợp lộc** (Mậu thực Canh, Thân Canh lộc, Nhâm Quý tài) | Không Bính phá thực, không Dần Tỵ hình xung; sinh mùa thu đại quý; năm tháng thấy Giáp cùng tam kỳ hay Dần Thìn → quý | Có Bính Giáp Dần Tỵ → "gặp mà không gặp", phản phúc. Mậu Ngọ: *tứ trụ thuần dương* khi có Giáp Bính hợp thần tàng sát; Mậu Thân: thân–lộc đồng cung phú quý. |
+| **Tân Dậu** | **Thương quan bại** (Mậu quan Ất, Tân thương; Dậu Tân vượng, Mậu mộc dục) | Thông sinh khí nguyệt, vận bắc: không quý cũng phú; Mậu Tý: Tỵ Dậu Sửu thương tận, đi tài vượng → võ chức | Thấu Ất: họa trăm đường; nay xem "thương quan đến giờ không cát", tử tức khó nên |
+| **Nhâm Tuất** | **Chuyên vị gặp tài** (Mậu tài Nhâm; Tuất thủy quan đới) | Thu hậu Mậu thổ vững, tài–mệnh hữu khí → giàu | Xuân hạ Nhâm vô khí: tài không vượng; đông: Nhâm vượng nhưng Mậu hư thân yếu không gánh. Mậu Tý: Thân Dậu Tuất tháng "nhà đầy của"; Mậu Thìn: *thời nhật xung* thổ hậu đại quý. |
+| **Quý Hợi** | Hóa hỏa tử ở Hợi, thủy chiến (Mậu Quý hóa hỏa, hỏa tuyệt ở Hợi; Mậu quỷ Giáp, tài Nhâm Quý) | Năm tháng thấy Ất Đinh Canh vượng → tam kỳ quý; thông thổ khí thân vượng đi hỏa mộc vận | Hóa không thành → "hư tú", nghệ thuật cửu lưu, bệnh mắt. Mậu Tý: không Mậu phá cách thì quý; Mậu Dần: Ngọ Mùi hóa hỏa hội cục; Mậu Thân: nhờ vợ mà giàu hoặc nghèo hèn. |
+
+*Thơ kết Lục Mậu tóm:* Mậu+Tý "thân cường quan vượng thích hợp, vận lỡ thì chạy vạy"; +Sửu "hóa hợp nam ly cục, tài môn nhật nguyệt mở"; +Dần "thân cường hoa mộc gặp xuân, thiên quan sợ hình xung, giả sát làm quyền ấn"; +Mão "mộc xung lục hợp thông, kim kê ngọc thỏ hiển vinh"; +Thìn "kho tài quan khóa, chờ chìa khóa (Mão Tuất)"; +Tỵ "lộc nguyên ấn thụ gặp nhau, sớm đoạt đơn quế"; +Ngọ "lửa rời quê, nhận mạnh thân vượng hiển dương"; +Mùi "Mậu Kỷ thổ đống, hình hại xung đến cũng hay, tiên ám hậu minh"; +Thân "thực thần hợp lộc, thiên nguyên khí vượng"; +Dậu "gọi là bóc quan, ở giờ càng đáng ngại"; +Tuất "tài khố trong ẩn, chờ chìa khóa Thìn Mão Sửu"; +Hợi "hóa hỏa sinh ra, Ất Canh Đinh vượng thì hợp".
+
+---
+
+## 2. Cách sách áp dụng
+Giống file 07: tra *can ngày (Lục Bính/Đinh/Mậu) × giờ sinh*, đọc cách, dụng thần, thông nguyệt khí/nương tựa/cứu, chọn đúng *ngày cụ thể* trong nhóm (chi ngày thay đổi hệ quả), kiểm tra điều kiện của các cách hư (củng lộc/quý, đảo xung, hỗ hoán lộc…), rồi dùng thơ kết làm khẩu quyết.
+
+## 3. Ví dụ sách dùng
+- **Bính Tý ngày – giờ Mậu Tý:** quan tài vượng gặp thực; mùa xuân hạ (mộc sinh hỏa) lành; đông Bính vô khí → bần/yểu.
+- **Bính Ngọ ngày – giờ Mậu Tý:** *nhật nhận cách*, cần quan sát chế/hợp; thuần Tý là "tý ngọ song bao" quý.
+- **Đinh Tỵ ngày – giờ Bính Ngọ:** *hỗ hoán lộc* (Đinh lộc Ngọ – Bính lộc Tỵ), trụ không Dần Hợi Tý → văn chương hiển quý.
+- **Đinh Hợi ngày – giờ Tân Hợi:** *nhật quý + tam kỳ tài quan ấn*; thông hỏa khí thân vượng đại quý, tam hợp mộc cục càng tốt.
+- **Mậu Ngọ ngày – giờ Giáp Dần:** nhận cách + thiên quan, **lấy nhận hợp sát** → quý; tháng Tỵ Dậu Sửu "đao bút kinh người", chế không quá.
+
+## 4. Quy tắc có thể tái sử dụng (tiếp QT-TM8)
+**QT-TM8-8 (nhật đức/nhật nhận ở Bính).** Bính Thìn = nhật đức (ưa quan tinh); Bính Ngọ = nhật nhận (cần quan sát chế/hợp); Bính Ngọ gặp Quý giờ mà tháng Tý = quan khử nhận.
+**QT-TM8-9 (hỗ hoán lộc).** Hai ngày giờ lộc hoán nhau (Bính ngày giờ Quý Tỵ khi Quý lộc Tý; Đinh Tỵ ngày – giờ Bính Ngọ; Mậu Ngọ ngày – giờ Đinh Tỵ) thành cách tốt nếu **trụ không Dần Hợi Tý Mão Thân (phá/xung)**.
+**QT-TM8-10 (tài khố cần chìa khóa).** Giờ có kho tài/quan (Kỷ Sửu, Mậu Thìn, Canh Tuất) phải có chi xung mở (Thìn–Tuất, Sửu–Mùi) hoặc tháng thích hợp; "kho không chìa" = bình thường dù có tài.
+**QT-TM8-11 (thương quan ở giờ).** Thương quan ở giờ (Mậu ngày giờ Tân Dậu; Đinh ngày giờ Ất Tỵ) cần *thương tận* hoặc thấu tài–ấn; thấu quan (Ất cho Mậu, Nhâm cho Đinh) → họa nặng.
+**QT-TM8-12 (hóa hợp ở giờ).** Mậu–Quý hóa hỏa (Lục Mậu giờ Quý Sửu/Quý Hợi), Đinh–Nhâm hóa mộc (Lục Đinh giờ Nhâm Dần), Bính–Tân hóa thủy (Lục Bính giờ Tân Mão): chỉ thành khi thân nhược theo hóa thần đắc lệnh + hóa thần vượng; thân vượng không hóa thì lại hay.
+**QT-TM8-13 (thân sát lưỡng đình).** Giờ Giáp Dần của Mậu, Nhâm Thìn của Bính: thân vượng thì hóa quỷ thành quan; thân suy thì quỷ vượng yểu. Chế sát quá thì thành bần nho (xem Thần Phong QT-TP-55).
+
+## 5. Phần chưa chắc
+- Bản tóm tắt; chi tiết từng tháng/năm cho 6 ngày × 36 giờ chưa chép hết.
+- Một vài chỗ bản số hóa chép lỗi (ví dụ "丙子日戊戌时" lặp, "戊寅日己未时" lặp); tôi dùng nội dung hợp logic và không sửa thêm.
+- Hàng "Tân Dậu" của Lục Mậu: nguồn gốc ngắn, tôi diễn đạt rút gọn.
+
+**Mức độ chắc chắn:** Trung bình cho tên cách/dụng thần; thấp cho chi tiết tháng–năm–vận từng ngày.
+**Ngày bóc:** 24/10/2026
